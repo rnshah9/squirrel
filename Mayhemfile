@@ -2,4 +2,4 @@ project: squirrel
 target: sq
 
 cmds:
-  - cmd: /repo/bin/sq @@
+  - cmd: /sq @@
